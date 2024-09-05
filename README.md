@@ -1,6 +1,6 @@
 # SunpumpSniper bot
 
-![Unbenannt](https://github.com/user-attachments/assets/47394f9f-103b-4a81-a988-4247d8af5102)
+![Unbenannt](https://github.com/user-attachments/assets/b891410b-5fd4-4223-af2d-e49551c67fad)
 
 ## 🛸 How to use
 
